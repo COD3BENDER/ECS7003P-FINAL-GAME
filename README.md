@@ -48,8 +48,17 @@ https://assetstore.unity.com/packages/3d/props/guns/sample-low-poly-guns-pack-20
 Skybox Series Free:
 https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
 
-Enemy asset Mutant: GIVE SPECIFIC LINK.
+Enemy asset Mutant:
 
 https://www.mixamo.com/#/?page=1&type=Character
+
+Audio and Pictures reference:
+https://assetstore.unity.com/packages/audio/sound-fx/sci-fi-guns-sfx-pack-181144#content
+https://assetstore.unity.com/packages/audio/music/sci-fi-music-pack-1-105576
+https://assetstore.unity.com/packages/audio/sound-fx/free-sound-effects-pack-155776#content
+https://www.pexels.com/photo/earth-wallpaper-41953/
+http://johnstejskal.com/wp/how-to-create-realistic-smoke-in-unity/
+
+
 
 
