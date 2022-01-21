@@ -1,5 +1,6 @@
 # MPGD-MainGame- Final
- ExoWorld
+ ExoWorld- GC-01 Space exploration
+ Normally space games are futureistic we decided to create an exoplanet that is not as technologically advanced as Earth
 
 How to Play:
 
