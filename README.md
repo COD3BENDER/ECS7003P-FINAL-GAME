@@ -54,9 +54,13 @@ https://www.mixamo.com/#/?page=1&type=Character
 
 Audio and Pictures reference:
 https://assetstore.unity.com/packages/audio/sound-fx/sci-fi-guns-sfx-pack-181144#content
+
 https://assetstore.unity.com/packages/audio/music/sci-fi-music-pack-1-105576
+
 https://assetstore.unity.com/packages/audio/sound-fx/free-sound-effects-pack-155776#content
+
 https://www.pexels.com/photo/earth-wallpaper-41953/
+
 http://johnstejskal.com/wp/how-to-create-realistic-smoke-in-unity/
 
 
