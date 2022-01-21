@@ -20,6 +20,8 @@ Jump Onto a Wall, when the camera tilts you can run on wall jump to then jump of
 Shoot:
 Left Click: Shoot
 
+Pick Up items: E key
+
 Reference to tutorials to help build mechanics:
 
 movement and wallrunning tutorials:
