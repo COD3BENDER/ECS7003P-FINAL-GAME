@@ -53,9 +53,9 @@ public class HoverPickupObject : MonoBehaviour
                 if (hit.transform.GetComponent<PickupBehaviour>().pickupID == 1)    
                 {
                     transform.GetComponentInParent<PlayerMovement>().spaceshipHealth += 1;
-                    if (transform.GetComponentInParent<PlayerMovement>().spaceshipHealth > 9)
+                    if (transform.GetComponentInParent<PlayerMovement>().spaceshipHealth > 4)
                     {
-                        transform.GetComponentInParent<PlayerMovement>().spaceshipHealth = 9;
+                        transform.GetComponentInParent<PlayerMovement>().spaceshipHealth = 4;
                         SceneManager.LoadScene("WinScreen");
                     }
                 }
